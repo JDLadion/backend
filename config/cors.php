@@ -6,7 +6,7 @@ return [
     'allowed_methods' => ['*'],
 
     'allowed_origins' => [
-        'https://cheery-starburst-2c371a.netlify.app',
+        'https://foodie-corner77.netlify.app',
         'http://localhost:9000',
     ],
 
